@@ -14,27 +14,23 @@
   body {
     background-color: var(--bg-100);
     color: var(--text-100);
-    font-family: inherit; /* Inherit font style from device settings */
+    font-family: inherit; 
   }
   
   /* Example usage of colors */
   .primary-button {
     background-color: var(--primary-100);
     color: var(--text-100);
-    font-family: inherit; /* Inherit font style from device settings */
-    /* additional styles */
+    font-family: inherit; 
   }
   
   .accent-button {
     background-color: var(--accent-100);
     color: var(--text-100);
-    font-family: inherit; /* Inherit font style from device settings */
-    /* additional styles */
+    font-family: inherit; 
   }
   
-  /* Customize and extend as needed */
   
-/* Reset default margin and padding */
 * {
     margin: 0;
     padding: 0;
@@ -81,12 +77,17 @@
     top: 0;
     left: 0;
     width: 100%;
+<<<<<<< HEAD
     height: 95%;
     background-image: url('images/welcome.jpg'); /* Replace with your background image */
+=======
+    height: 95%;
+    background-image: url('images/welcome.jpg'); 
+>>>>>>> 8eb2bf27b76adb854a8e37f4d8b6622985964340
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    filter: brightness(0.7); /* Adjust the brightness as desired */
+    filter: brightness(0.7); 
   }
   
   .welcome-section .welcome-content {
@@ -194,5 +195,9 @@
   
   
   
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 8eb2bf27b76adb854a8e37f4d8b6622985964340
   
     
